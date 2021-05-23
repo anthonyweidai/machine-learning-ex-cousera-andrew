@@ -6,9 +6,13 @@ Each main.m function has configuration you need to run all of the codes.
 
 ### Status
 
-Ex1, 100 Points,16/05/2021
+Ex1, 100 Points, 16/05/2021
 
 
 
-Ex2, 100 Points,16/05/2021
+Ex2, 100 Points, 16/05/2021
+
+
+
+Ex3, 100 Points, 23/05/2021
 
