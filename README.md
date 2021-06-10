@@ -9,9 +9,7 @@ Each main.m function has configuration you need to run all of the codes.
 Ex1, 100 Points, 16/05/2021
 
 
-
 Ex2, 100 Points, 16/05/2021
-
 
 
 Ex3, 100 Points, 23/05/2021
@@ -21,3 +19,6 @@ Ex4, 100 Points, 04/06/2021
 
 
 Ex5, 100 Points, 07/06/2021
+
+
+Ex6, 100 Points, 10/06/2021
