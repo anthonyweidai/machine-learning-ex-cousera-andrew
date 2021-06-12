@@ -5,14 +5,21 @@ Each main.m function has configuration you need to run all of the codes.
 
 ## Content
 
-[Linear Regression with Multiple Variables](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex1) <br/>
-[Logistic Regression and Regularization](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex2) <br/>
-[Neural Networks: Representation](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex3) <br/>
-[Neural Networks: Learning](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex4) <br/>
-[Advice for Applying Machine Learning](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex5) <br/>
-[Support Vector Machines](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex6) <br/>
-[Unsupervised Learning and Dimensionality Reduction](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex7) <br/>
-[Anomaly Detection and Recommender Systems](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex8) <br/>
+### [Linear Regression with Multiple Variables](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex1)
+
+### [Logistic Regression and Regularization](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex2) 
+
+### [Neural Networks: Representation](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex3) 
+
+### [Neural Networks: Learning](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex4)
+
+### [Advice for Applying Machine Learning](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex5)
+
+### [Support Vector Machines](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex6) 
+
+### [Unsupervised Learning and Dimensionality Reduction](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex7) 
+
+### [Anomaly Detection and Recommender Systems](https://github.com/anthonyweidai/machine-learning-ex-cousera-andrew/tree/main/ex8) 
 
 ## Status
 
