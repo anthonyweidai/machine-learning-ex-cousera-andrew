@@ -59,3 +59,4 @@ Ex8, 100 Points, 12/06/2021<br/>
 [Photo Optical Recognition/OCR - Class Review06-13](https://anthonydave.top/Machine%20leanring/Photo-Optical-Recognition-OCR-Class-Review/)
 
 # Reference
+Andrew NG, [Machine learning](https://www.coursera.org/learn/machine-learning/)
