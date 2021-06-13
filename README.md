@@ -24,3 +24,36 @@ Ex5, 100 Points, 07/06/2021<br/>
 Ex6, 100 Points, 10/06/2021<br/>
 Ex7, 100 Points, 11/06/2021<br/>
 Ex8, 100 Points, 12/06/2021<br/>
+
+## Xiaohu Blogs
+[Summary for Machine Learning Hosted by Andrew](https://anthonydave.top/Machine leanring/Summary-for-Machine-Learning-Hosted-by-Andrew/)
+
+[The framework of machine learning05-05](https://anthonydave.top/Machine leanring/The-framework-of-machine-learning/)
+
+[Machine learning mathematics05-05](https://anthonydave.top/Machine leanring/Machine-learning-mathematics/)
+
+[Backpropagation of Machine Learning05-07](https://anthonydave.top/Machine leanring/Backpropagation-of-Machine-Learning/)
+
+[The model of artificial neuron and its general principles - Class review05-13](https://anthonydave.top/Machine leanring/The-model-of-artificial-neuron-and-its-general-principles/)
+
+[How to solve the the problem of overfitting - Class review05-16](https://anthonydave.top/Machine leanring/How-to-slove-the-the-problem-of-overfitting/)
+
+[Machine learning questions06-04](https://anthonydave.top/Machine leanring/Machine-learning-questions/)
+
+[How dose regularization work in ML and DL? - Class review06-06](https://anthonydave.top/Deep Learning/How-dose-regularization-work-in-ML-and-DL/)
+
+[How to debug your machine learning system06-08](https://anthonydave.top/Machine leanring/How-to-debug-your-machine-learning-system/)
+
+[What is support vector machine/SVM06-10](https://anthonydave.top/Machine leanring/What-is-support-vector-machine-SVM/)
+
+[Unsupervised learning and clustering algorithms06-11](https://anthonydave.top/Machine leanring/Unsupervised-learning-and-clustering-algorithms/)
+
+[Dimensionality reduction for input data06-11](https://anthonydave.top/Machine leanring/Dimensionality-reduction-for-input-data/)
+
+[Anomaly Detection - Class Review06-12](https://anthonydave.top/Machine leanring/Anomaly-Detection-Class-Review/)
+
+[Recommender Systems - Class Review06-12](https://anthonydave.top/Machine leanring/Recommender-Systems-Class-Review/)
+
+[Large Scale Machine Learning - Class Review06-13](https://anthonydave.top/Machine leanring/Large-Scale-Machine-Learning-Class-Review/)
+
+[Photo Optical Recognition/OCR - Class Review06-13](
