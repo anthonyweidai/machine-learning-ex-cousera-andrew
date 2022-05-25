@@ -38,7 +38,7 @@ Ex8, 100 Points, 12/06/2021<br/>
 
 [Machine learning questions06-04](https://anthonydave.top/Machine%20leanring/Machine-learning-questions/)
 
-[How dose regularization work in ML and DL? - Class review06-06]([https://anthonydave.top/Deep%20Learning/How-dose-regularization-work-in-ML-and-DL/](https://anthonydave.top/Deep%20Learning/How-dose-regularization-work-in-ML-and-DL-Class-Review/))
+[How dose regularization work in ML and DL? - Class review06-06](https://anthonydave.top/Deep%20Learning/How-dose-regularization-work-in-ML-and-DL-Class-Review/)
 
 [How to debug your machine learning system06-08](https://anthonydave.top/Machine%20leanring/How-to-debug-your-machine-learning-system/)
 
