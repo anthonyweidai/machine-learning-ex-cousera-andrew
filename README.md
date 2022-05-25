@@ -34,13 +34,11 @@ Ex8, 100 Points, 12/06/2021<br/>
 
 [Backpropagation of Machine Learning05-07](https://anthonydave.top/Machine%20leanring/Backpropagation-of-Machine-Learning/)
 
-[The model of artificial neuron and its general principles - Class review05-13](https://anthonydave.top/Machine%20leanring/The-model-of-artificial-neuron-and-its-general-principles/)
-
 [How to solve the the problem of overfitting - Class review05-16](https://anthonydave.top/Machine%20leanring/How-to-slove-the-the-problem-of-overfitting/)
 
 [Machine learning questions06-04](https://anthonydave.top/Machine%20leanring/Machine-learning-questions/)
 
-[How dose regularization work in ML and DL? - Class review06-06](https://anthonydave.top/Deep%20Learning/How-dose-regularization-work-in-ML-and-DL/)
+[How dose regularization work in ML and DL? - Class review06-06]([https://anthonydave.top/Deep%20Learning/How-dose-regularization-work-in-ML-and-DL/](https://anthonydave.top/Deep%20Learning/How-dose-regularization-work-in-ML-and-DL-Class-Review/))
 
 [How to debug your machine learning system06-08](https://anthonydave.top/Machine%20leanring/How-to-debug-your-machine-learning-system/)
 
